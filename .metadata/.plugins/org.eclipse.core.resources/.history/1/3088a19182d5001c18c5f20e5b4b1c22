@@ -1,0 +1,13 @@
+package sample01;
+
+public class Human {
+	private String name;
+	private int age;
+	private String hobby[];
+	
+	public Human() {
+		// TODO Auto-generated constructor stub
+	}
+	
+
+}

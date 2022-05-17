@@ -1,0 +1,10 @@
+package sample01;
+
+public class YouClass {
+	
+	private String name;
+	public YouClass() {
+		
+	}
+
+}

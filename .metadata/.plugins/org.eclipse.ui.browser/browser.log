@@ -1,0 +1,10 @@
+
+5월 17, 2022 10:08:55.321 NEW SESSION
+5월 17, 2022 10:08:55.321 [8588:9836:0517/100855.320:ERROR:device_event_log_impl.cc(214)] [10:08:55.320] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 17, 2022 10:09:53.31 [8588:10596:0517/100953.031:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 17, 2022 10:37:30.590 [8588:9836:0517/103730.590:ERROR:interface_endpoint_client.cc(665)] Message 0 rejected by interface blink.mojom.WidgetHost
+5월 17, 2022 10:38:36.655 [7696:9456:0517/103836.654:ERROR:device_event_log_impl.cc(214)] [10:38:36.654] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 17, 2022 10:39:17.799 [10060:7992:0517/103917.799:ERROR:device_event_log_impl.cc(214)] [10:39:17.799] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 17, 2022 10:40:15.630 [10060:8572:0517/104015.630:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+5월 17, 2022 10:50:40.773 [4004:4020:0517/105040.773:ERROR:device_event_log_impl.cc(214)] [10:50:40.774] Bluetooth: bluetooth_adapter_winrt.cc:1075 Getting Default Adapter failed.
+5월 17, 2022 10:51:37.792 [4004:11080:0517/105137.792:ERROR:util.cc(126)] Can't create base directory: C:\Program Files\Google\GoogleUpdater

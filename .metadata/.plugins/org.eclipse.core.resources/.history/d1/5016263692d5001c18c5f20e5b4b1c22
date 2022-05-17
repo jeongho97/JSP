@@ -1,0 +1,25 @@
+<%@page import="sample01.Dto"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<%
+	//짐찾기
+	//Human human=(Human)request.getAttribute("human");
+	Dto human=(Dto)session.getAttribute("data");
+
+
+%>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+name:<%=Dto.getId() %>
+<br>
+age:<%=human.getAge() %>
+<br>
+
+</body>
+</html>

@@ -1,0 +1,13 @@
+package sample01;
+
+public class Dto {
+	private String id;
+	private String pw;
+	private String hobby;
+	private int age;
+	private String writer;
+	
+	public Dto() {
+		// TODO Auto-generated constructor stub
+	}
+}

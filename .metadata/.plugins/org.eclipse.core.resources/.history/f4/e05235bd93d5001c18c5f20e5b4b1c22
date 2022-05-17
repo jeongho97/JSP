@@ -1,0 +1,29 @@
+<%@page import="sample01.Dto"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<%
+	//짐찾기
+	Dto dto=(Dto)request.getAttribute("data");
+
+
+%>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+아이디:<%=dto.getId() %>
+<br>
+패스워드:<%=dto.getPw() %>
+<br>
+취미:<%=dto.getHobby()%>
+<br>
+나이:<%=dto.getAge() %>
+<br>
+상세내역:<%=dto.getWriter() %>
+<br>
+</body>
+</html>
